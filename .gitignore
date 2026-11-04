@@ -1,0 +1,11 @@
+# Windows 系统垃圾文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# macOS
+.DS_Store
+# 临时文件
+*.tmp
+*.bak
+~$*
